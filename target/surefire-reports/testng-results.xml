@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34348" started-at="2019-07-12T07:52:11Z" finished-at="2019-07-12T07:52:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34348" started-at="2019-07-12T07:52:11Z" finished-at="2019-07-12T07:52:46Z">
+      <class name="cmdmavenproject.TestGoogleTitle">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:cmdmavenproject.TestGoogleTitle@4909b8da]" name="setBrowser" is-config="true" duration-ms="31045" started-at="2019-07-12T13:22:11Z" finished-at="2019-07-12T13:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="testTitle()[pri:0, instance:cmdmavenproject.TestGoogleTitle@4909b8da]" name="testTitle" duration-ms="478" started-at="2019-07-12T13:22:42Z" finished-at="2019-07-12T13:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:cmdmavenproject.TestGoogleTitle@4909b8da]" name="tearDown" is-config="true" duration-ms="2787" started-at="2019-07-12T13:22:43Z" finished-at="2019-07-12T13:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- cmdmavenproject.TestGoogleTitle -->
+      <class name="cmdmavenproject.Test">
+        <test-method status="PASS" signature="testTitle1()[pri:0, instance:cmdmavenproject.Test@3551a94]" name="testTitle1" duration-ms="11" started-at="2019-07-12T13:22:11Z" finished-at="2019-07-12T13:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle1 -->
+        <test-method status="PASS" signature="testTitle2()[pri:0, instance:cmdmavenproject.Test@3551a94]" name="testTitle2" duration-ms="6" started-at="2019-07-12T13:22:11Z" finished-at="2019-07-12T13:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle2 -->
+      </class> <!-- cmdmavenproject.Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

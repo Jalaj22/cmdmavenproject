@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27486" started-at="2019-07-12T08:06:19Z" finished-at="2019-07-12T08:06:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27486" started-at="2019-07-12T08:06:19Z" finished-at="2019-07-12T08:06:46Z">
+      <class name="cmdmavenproject.TestGoogleTitle">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:cmdmavenproject.TestGoogleTitle@5abc30ad]" name="setBrowser" is-config="true" duration-ms="24405" started-at="2019-07-12T13:36:19Z" finished-at="2019-07-12T13:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="testTitle()[pri:0, instance:cmdmavenproject.TestGoogleTitle@5abc30ad]" name="testTitle" duration-ms="463" started-at="2019-07-12T13:36:43Z" finished-at="2019-07-12T13:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:cmdmavenproject.TestGoogleTitle@5abc30ad]" name="tearDown" is-config="true" duration-ms="2595" started-at="2019-07-12T13:36:44Z" finished-at="2019-07-12T13:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- cmdmavenproject.TestGoogleTitle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

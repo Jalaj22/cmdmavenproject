@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="cmdmavenproject.TestGoogleTitle">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- cmdmavenproject.TestGoogleTitle -->
+      <class name="cmdmavenproject.Test">
+        <methods>
+          <include name="testTitle3"/>
+        </methods>
+      </class> <!-- cmdmavenproject.Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
